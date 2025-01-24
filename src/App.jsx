@@ -1,5 +1,5 @@
 import React from 'react'
-import Landing from './components/landing'
+import Landing from './components/Landing'
 import About from './components/About'
 import Navbar from './components/Navbar'    
 import Features from './components/Features'
